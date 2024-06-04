@@ -23,7 +23,7 @@ concurrency:
 jobs:
   # Build website
   build:
-    if: github.repository_owner != 'garth-wells'
+    # if: github.repository_owner != 'garth-wells'
     runs-on: ubuntu-latest
     steps:
     - name: Checkout
@@ -60,7 +60,7 @@ jobs:
 
   # Deploy website to GitHub Pages hosting
   deploy:
-    if: github.repository_owner != 'garth-wells'
+    # if: github.repository_owner != 'garth-wells'
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
