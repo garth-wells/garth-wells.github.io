@@ -114,6 +114,18 @@ sections:
       text: |
         Ettie is now a lecturer at University of Bristol.
 
+  - block: resume-biography
+    content:
+      username: nikbakht
+      # text: |
+      #   Ettie is now a lecturer at University of Bristol.
+  - block: resume-biography
+    content:
+      username: oelgaard
+  - block: resume-biography
+    content:
+      username: ntdung
+
 # - block: collection
 #     content:
 #       title: Selected Projects
