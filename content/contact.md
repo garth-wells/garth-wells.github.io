@@ -20,7 +20,7 @@ sections:
         #### Visiting the Department
         Office: BE3-10
 
-        Information on reaching the Department can be found [here](https://www.eng.cam.ac.uk/visitors/).
+        Information on reaching the Department can be found at https://www.eng.cam.ac.uk/visitors/.
 
 
         ### Jesus College
@@ -33,5 +33,5 @@ sections:
         #### Visiting the College
         Room: K11
 
-        Information on reaching the College can be found [here](https://www.jesus.cam.ac.uk/contact/).
+        Information on reaching the College can be found at https://www.jesus.cam.ac.uk/contact/.
 ---
