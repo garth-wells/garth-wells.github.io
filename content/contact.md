@@ -17,10 +17,13 @@ sections:
         Cambridge CB2 1PZ \
         United Kingdom
 
+
         #### Visiting the Department
+
         Office: BE3-10
 
-        Information on reaching the Department can be found at https://www.eng.cam.ac.uk/visitors/. &nbsp;
+        Information on reaching the Department can be found at
+        <a href="https://www.eng.cam.ac.uk/visitors/>">here</a>.
 
 
         #### Jesus College
@@ -30,8 +33,11 @@ sections:
         Cambridge CB5 8BL \
         United Kingdom
 
+
         #### Visiting the College
+
         Room: K11
 
-        Information on reaching the College can be found at https://www.jesus.cam.ac.uk/contact/. &nbsp;
+        Information on reaching the College can be
+        found <a href="https://www.jesus.cam.ac.uk/contact/>">here</a>.
 ---
