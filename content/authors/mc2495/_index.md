@@ -18,7 +18,7 @@ status:
 superuser: false
 
 # Role/position
-role: Marie Skłodowska-Curie Research Fellow
+role: Marie Skłodowska-Curie Research Fellow/Visitor
 
 # Organizations/Affiliations
 organizations:
@@ -61,7 +61,3 @@ user_groups:
   - Alumni
   - Visitor
 ---
-
-Igor was as Postdoctoral Research Associate (2020--2024) working on the
-ASiMoV Project. He is now a Senior Accelerated Computing Architect
-NVIDIA.
