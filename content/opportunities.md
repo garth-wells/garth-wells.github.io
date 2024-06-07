@@ -12,7 +12,7 @@ sections:
         We recruit researcher and students with interests in areas including modelling and simulation,
         numerical methods, numerical methods, mathematical software, and high-performance and parallel computing.
         If you are interested please send your CV to
-        Hilde Hambro (<a href="mailto:hh463@cam.ac.uk">hh463@cam.ac.uk</a>).
+        Hilde Hambro (<a href="mailto:hh463@cam.ac.uk">hh463\@cam.ac.uk</a>).
 
 
         #### Post-docs/research associates
