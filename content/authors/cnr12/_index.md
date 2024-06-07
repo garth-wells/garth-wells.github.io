@@ -52,10 +52,10 @@ profiles:
     label: E-mail Me
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/chris-richardson-4a70829
-  - icon: academicons/google-scholar
-    url: https://scholar.google.co.uk/citations?hl=en&user=T33nD7QAAAAJ
   - icon: academicons/orcid
     url: https://orcid.org/0000-0003-3137-1392
+  - icon: academicons/google-scholar
+    url: https://scholar.google.co.uk/citations?hl=en&user=T33nD7QAAAAJ
   - icon: brands/github
     url: https://github.com/chrisrichardson
 

@@ -116,6 +116,10 @@ sections:
 
   - block: resume-biography
     content:
+      username: eiar2
+
+  - block: resume-biography
+    content:
       username: nikbakht
       # text: |
       #   Ettie is now a lecturer at University of Bristol.

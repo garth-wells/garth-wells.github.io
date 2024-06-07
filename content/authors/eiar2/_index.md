@@ -1,53 +1,52 @@
 ---
 # Display name
-title: H. Juliette (Ettie) T. Unwin
+title: Eveline Rosseel
 
 # Full name (for SEO)
-first_name: Ettie
-last_name: Unwin
-
-# Status emoji
-status:
-  icon: 🇬🇧
+first_name: Eveline
+last_name: Rosseel
 
 # Username (this should match the folder name)
 authors:
-  - hjtu2
+  - eiar2
+
+# Status emoji
+status:
+  icon: 🇧🇪
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: PhD student
+role: Visiting Postdoctoral Research Associate
 
 # Organizations/Affiliations
 # organizations:
-#   - name: University College London
+#   - name: BCAM - Basque Center for Applied Mathematics
 #     url: ''
 
-# # Short bio (displayed in user profile at end of posts)
+# Short bio (displayed in user profile at end of posts)
 # bio: Etc.
 
 # interests:
-#   - Finite element methods
-#   - Boundary element methods
+#   - Parallel computing
+#   - GPU-accelerated solvers
 
 education:
-  - area: PhD in Engineering
-    institution:  University of Cambridge
-    date_end: 2018
+  - area: PhD
+    institution: KU Leuven
+    # date_start: 2016-01-01
+    date_end: 2010
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/juliette-unwin
+    url: https://www.linkedin.com/in/evelinerosseel
   - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-9120-4003
+    url: https://orcid.org/0000-0002-7022-622X
   - icon: academicons/google-scholar
-    url:  https://scholar.google.com/citations?user=SDhzsXUAAAAJ
-  - icon: brands/github
-    url: https://github.com/ettieunwin
+    url: https://scholar.google.com/citations?user=z3FMw84AAAAJ&hl
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
@@ -55,6 +54,6 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  # - Grad Students
   - Alumni
+  - Visitor
 ---

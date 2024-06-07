@@ -46,8 +46,12 @@ education:
 profiles:
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/yuxuan-chen-3726801b8/
+  - icon: academicons/orcid
+    url: https://orcid.org/0000-0002-4152-2011
   - icon: brands/github
     url: https://github.com/yc397
+
+
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
@@ -56,6 +60,6 @@ email: ''
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - Alumni
-  # - Grad Students
-  # - Visitor
+  - Grad Students
+  - Visitor
 ---

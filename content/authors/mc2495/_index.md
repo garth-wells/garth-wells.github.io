@@ -43,10 +43,10 @@ organizations:
 profiles:
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/matcroci/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.co.uk/citations?user=AmQKnwcAAAAJ&hl
   - icon: academicons/orcid
     url: https://orcid.org/0000-0003-1669-9445
+  - icon: academicons/google-scholar
+    url: https://scholar.google.co.uk/citations?user=AmQKnwcAAAAJ&hl
   - icon: brands/github
     url: https://github.com/croci
   - icon: devicon/bitbucket

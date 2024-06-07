@@ -49,10 +49,10 @@ role: Postdoctoral Research Associate
 profiles:
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/samuel-groth
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=8gproUcAAAAJ
   - icon: academicons/orcid
     url: https://orcid.org/0000-0002-4715-4635
+  - icon: academicons/google-scholar
+    url: https://scholar.google.com/citations?user=8gproUcAAAAJ
   - icon: brands/github
     url: https://github.com/samuelpgroth
 

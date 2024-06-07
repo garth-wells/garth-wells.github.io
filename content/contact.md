@@ -36,7 +36,7 @@ sections:
 
         #### Visiting the College
 
-        Room: K11
+        Room: K7
 
         Information on reaching the College can be
         found <a href="https://www.jesus.cam.ac.uk/contact/>">here</a>.

@@ -43,10 +43,10 @@ profiles:
   - icon: at-symbol
     url: 'mailto:jpd62@cam.ac.uk'
     label: E-mail Me
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=NIprovAAAAAJ&hl
   - icon: academicons/orcid
     url: https://orcid.org/0000-0001-7499-3373
+  - icon: academicons/google-scholar
+    url: https://scholar.google.com/citations?user=NIprovAAAAAJ&hl
   - icon: brands/github
     url: https://github.com/jpdean
 
