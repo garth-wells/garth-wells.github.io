@@ -37,10 +37,10 @@ profiles:
     label: E-mail Me
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/garth-wells-6b203426/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=qevR9IoAAAAJ&hl
   - icon: academicons/orcid
     url: https://orcid.org/0000-0001-5291-7951
+  - icon: academicons/google-scholar
+    url: https://scholar.google.com/citations?user=qevR9IoAAAAJ&hl
   - icon: academicons/arxiv
     url: http://arxiv.org/a/wells_g_1
   - icon: brands/github
