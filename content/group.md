@@ -5,7 +5,7 @@ type: landing
 
 design:
   # Section spacing
-  spacing: '0rem'
+  spacing: '0.5rem'
 
 # Page sections
 sections:
@@ -13,7 +13,6 @@ sections:
     content:
       # title: Researchers
       text: |
-        ---
         ###  Researchers
   - block: resume-biography
     content:
