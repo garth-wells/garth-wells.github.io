@@ -6,7 +6,7 @@ type: landing
 
 design:
   # Default section spacing
-  spacing: "6rem"
+  spacing: "2rem"
 
 sections:
   - block: resume-biography-3
@@ -30,18 +30,21 @@ sections:
     #       size: cover
     #       position: center
     #       parallax: false
-  # - block: markdown
-  #   content:
-  #     title: '📚 My Research'
-  #     subtitle: ''
-  #     text: |-
-  #       Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+  - block: markdown
+    content:
+      # title: '📚 My Research'
+      subtitle: ''
+      text: |-
+        {{% callout %}}
+        A funded PhD studentship
+        is available on fast solvers for electromagnetic scattering problems,
+        in collaboration with
+        <a href="https://www.gov.uk/government/organisations/defence-science-and-technology-laboratory">Dstl</a>.
+        See the <a href="opportunities">opportunities</a> page.
+        {{% /callout %}}
 
-  #       I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-
-  #       Please reach out to collaborate 😃
-  #   design:
-  #     columns: '1'
+# design:
+    #   columns: '2'
   # - block: collection
   #   id: papers
   #   content:
