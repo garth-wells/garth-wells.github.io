@@ -1,6 +1,6 @@
 ---
 title: 'Group'
-date: 2024-05-19
+date: 2024-06-04
 type: landing
 
 design:
@@ -10,10 +10,10 @@ design:
 # Page sections
 sections:
   - block: markdown
+    id: group-researchers
     content:
       # title: Researchers
       text: |
-        ---
         ###  Researchers
   - block: resume-biography
     content:
@@ -29,6 +29,7 @@ sections:
       text: ""
 
   - block: markdown
+    id: group-rse
     content:
       # title: Research Software Engineers
       text: |
@@ -41,6 +42,7 @@ sections:
       text: ""
 
   - block: markdown
+    id: group-students
     content:
       # title: Research students
       text: |
@@ -56,6 +58,7 @@ sections:
       text: ""
 
   - block: markdown
+    id: group-admin
     content:
       # title: Administration
       text: |
@@ -67,6 +70,7 @@ sections:
       text: "Hilde supports all aspects of the research group operation."
 
   - block: markdown
+    id: group-alumni
     content:
       text: |
         ---
