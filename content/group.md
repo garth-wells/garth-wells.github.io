@@ -25,6 +25,10 @@ sections:
       text: ""
   - block: resume-biography
     content:
+      username: sk937
+      text: ""
+  - block: resume-biography
+    content:
       username: nvs31
       text: ""
 
