@@ -5,7 +5,7 @@ type: landing
 
 design:
   # Section spacing
-  spacing: '0rem'
+  spacing: '0.5rem'
 
 # Page sections
 sections:
@@ -117,6 +117,10 @@ sections:
       username: hjtu2
       text: |
         Ettie is now a lecturer at University of Bristol.
+
+  - block: resume-biography
+    content:
+      username: eiar2
 
   - block: resume-biography
     content:

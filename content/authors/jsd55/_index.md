@@ -49,10 +49,10 @@ role: Postdoctoral Research Associate
 profiles:
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/jorgen-s-dokken
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=hfeXoYMAAAAJ&hl
   - icon: academicons/orcid
     url: https://orcid.org/0000-0001-6489-8858
+  - icon: academicons/google-scholar
+    url: https://scholar.google.com/citations?user=hfeXoYMAAAAJ&hl
   - icon: brands/github
     url: https://github.com/jorgensd
 

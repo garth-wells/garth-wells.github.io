@@ -46,6 +46,8 @@ profiles:
     label: E-mail Me
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/nirav-shah-2409/
+  - icon: academicons/orcid
+    url: https://orcid.org/0000-0002-6378-0898
   - icon: academicons/google-scholar
     url: https://scholar.google.co.uk/citations?user=M9_CPPkAAAAJ&hl
   - icon: brands/github
