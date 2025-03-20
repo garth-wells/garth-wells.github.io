@@ -9,10 +9,10 @@ sections:
     #   subtitle: My subtitle
       text: |
       text: |-
-        We recruit researcher and students with interests in areas including modelling and simulation,
-        numerical methods, numerical methods, mathematical software, and high-performance and parallel computing.
-        If you are interested please send your CV to
-        Hilde Hambro (<a href="mailto:hh463@cam.ac.uk">hh463\@cam.ac.uk</a>).
+        We recruit researcher and students with interests in areas including modelling
+        and simulation, numerical methods, numerical methods, mathematical software,
+        and high-performance and parallel computing. If you are interested please send
+        your CV to Hilde Hambro (<a href="mailto:hh463@cam.ac.uk">hh463\@cam.ac.uk</a>).
 
 
         #### Post-docs/research associates
@@ -20,18 +20,43 @@ sections:
         Support for post-doctoral scholars and research associates is available
         through a variety of fellowship schemes.
 
+        A number of post-doctoral research associate posts on simulation high-performance
+        computing will be opening soon.
+
 
         #### PhD positions
 
-        {{% callout note %}}
-        A funded PhD studentship is available on fast solvers for electromagnetic scattering problems
-        in collaboration with
-        <a href="https://www.gov.uk/government/organisations/defence-science-and-technology-laboratory">Dstl</a>.
-        This studentship is restricted to UK residents.
+        A range of scholarships/studentships are available for other PhD projects.
 
+        {{% callout note %}}
+        Two funded PhD studentships, starting in October 2025,
+        are available on modelling, simulation and high-performance computing
+        with application to hydrogen-powered aero-engines. The projects are *EPSRC
+        Industrial Doctoral Landscape Awards* awards
+        in collaboration with
+        <a href="https://www.rolls-royce.com/">Rolls-Royce</a>. The topics of the studentships
+        are:
+        1.  High-performance, scalable parallel solvers for contact problems.
+
+            Design, analysis and application of robust, parallel numerical solvers for
+            modelling contact under mechanical and thermal loadings. This will include
+            creating methods that are suited for GPUs and which will run on the world's
+            largest supercomputers.
+
+        2.  Fast computational techniques for simulating and optimising single crystal
+            casting.
+
+            Creation of new numerical techniques for fast, high-fidelity computer modelling
+            of casting of single crystal components. The highly accurate models will include thermal,
+            mechanical and fluid processes. The new computer models will be used to optimise
+            casting processes, leading to new and improved casting for aerospace applications.
+
+        Funding is for four years, and includes opportunities to spend time on site
+        at Rolls-Royce in the Future Technologies team.
+
+
+        The studentships are restricted to UK residents.
         Please send expressions of interest, including your CV, to
         Hilde Hambro (<a href="mailto:hh463@cam.ac.uk">hh463\@cam.ac.uk</a>).
         {{% /callout %}}
-
-        A range of scholarships/studentships are available for PhD projects.
 ---

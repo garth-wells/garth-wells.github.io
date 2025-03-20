@@ -36,10 +36,10 @@ sections:
       subtitle: ''
       text: |-
         {{% callout %}}
-        A funded PhD studentship
-        is available on fast solvers for electromagnetic scattering problems,
-        in collaboration with
-        <a href="https://www.gov.uk/government/organisations/defence-science-and-technology-laboratory">Dstl</a>.
+        Two funded PhD studentships, starting in October 2025,
+        are available on modelling, simulation and high-performance computing
+        with application to hydrogen-powered aero-engines. In collaboration with
+        <a href="https://www.rolls-royce.com/">Rolls-Royce</a>.
         See the <a href="opportunities">opportunities</a> page.
         {{% /callout %}}
 
