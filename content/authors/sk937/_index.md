@@ -44,6 +44,8 @@ profiles:
   - icon: at-symbol
     url: 'mailto:sk937@cam.ac.uk'
     label: E-mail Me
+  - icon: brands/linkedin
+    url: https://www.linkedin.com/in/srinath-kailasa-12398878
   - icon: academicons/orcid
     url: https://orcid.org/0000-0001-9734-8318
   - icon: academicons/google-scholar
