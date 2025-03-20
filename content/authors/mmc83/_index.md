@@ -45,6 +45,8 @@ profiles:
   - icon: at-symbol
     url: 'mailto:mmc83@cam.ac.uk'
     label: E-mail Me
+  - icon: brands/linkedin
+    url: https://www.linkedin.com/in/mohammed-choudhury-8a401616a/
   - icon: brands/github
     url: https://github.com/musachoudhury
 
